@@ -47,10 +47,16 @@ ___
 
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/b550b74f-be99-4c8a-896e-04e4e9f8662d)
 
+* Although there is no explicit error, the command does not print anything. This suggests that the reason for this output is that it cannot print the content of anything if no paths are given in the command. This also illustrates how there is no working directory yet.
+
 2. Path to a directory
 
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/d88e4c47-5005-4c3d-9e96-66cea3f0d6d9)
 
+* There are no errors in this command. The output is that lecture1 is a directory because before printing the content of any files given by a path, we need to determine what is the directory of the file. Since the current working directory is lecture1, it will tell us that lecture1 is now a directory.
+
 3. Path to a file
 
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/0418bc54-1780-49b9-9ea5-7d14c71b1a3a)
+
+* There are no errors in this command because the cat command printed the content of the file. The reason for the result is that since we stated the working directory, folder, and file, or all of the components for a file that we are trying to print the content of, it will print the information inside the file, which is !Hola Mundo! in this case.
