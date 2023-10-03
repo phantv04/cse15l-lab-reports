@@ -40,6 +40,7 @@ ___
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/f032cdd3-13d1-4445-a533-962399a5b44a)
 
 * An error does not exist in the output because we clearly stated not just the current working directory, but also the file that we are trying to direct the path to. The reason for the output is because we listed the directory, folder, and file in the ls command, which basically lists the files in the given path. The current working directory in this case is also lecture1.
+
 ___
 
 *Using cat:*
