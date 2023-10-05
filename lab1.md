@@ -1,4 +1,4 @@
-# CSE 15L Lab Report #1
+# CSE 15L Lab Report #1: Thoai Phan
 
 ___
 
@@ -6,7 +6,7 @@ ___
 1. No arguments
   
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/335313c2-f5f7-4fb6-ab20-2991abd1fb12)
-* There are no errors in the output because we did not state an argument for the command. Therefore, the reason why there is no output for this command is because there needs to be an argument so the code will know what to refer to. When the command was in run, the working directory was the lecture1 folder. 
+* There are no errors in the output because we did not state an argument for the command. Therefore, the reason why there is no output for this command is because there needs to be an argument so the code will know what to refer to. When the command was in run, there is no explicit directory yet. 
 
 2. Path to a directory
   
