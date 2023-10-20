@@ -54,4 +54,3 @@ ___
 ## Part 3: Learning
 
 * I have learned a lot over the past few weeks because I came to San Diego without any programming experience. Although I took a few computer science courses last year, this class feels totally different because I learned to create local servers, add sentences to empty servers, and how directories work behind the scenes. I never knew how to print the files inside a folder and switching directories for one's convenience until this course.
-___
