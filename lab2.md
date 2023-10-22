@@ -31,19 +31,19 @@ ___
 
 ## Part 2: LS & SSH
 
-Current files with the `/ls` command:
-
-![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/df5956ad-ae15-4ddf-8fe3-7cad97d7815b)
-
-
 Path to a Private Key:
 
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/03524f46-95af-4abf-9267-64b721ef607d)
+
+![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/6a4f566d-6e07-402f-a8c7-0024d611f684)
 
 
 Path to a Public Key:
 
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/c64d34d5-6353-4d8f-8a70-6a94c724b46b)
+
+![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/f06741a5-9aa0-4bd3-bd49-cd458409c476)
+
 
 Logging in Without a Password:
 
