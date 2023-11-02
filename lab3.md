@@ -60,7 +60,7 @@ ___
 
 ## Part 2: Researching Commands
 
-*Find Command-Line Option #1: Using -iname*
+## Find Command-Line Option #1: Using -iname
 
 * On Directories:
 
@@ -78,7 +78,7 @@ ___
 * Additionally, if you forgot that your file started with a capital letter, this is useful because it does not matter in this case.
 
 
-*Find Command-Line Option #2: Using -atime*
+## Find Command-Line Option #2: Using -atime*
 
 * On Directories:
 
@@ -96,7 +96,7 @@ ___
 * This is useful because if you want to see what files and directories you used over a certain period of time, you can use this command.
 
 
-*Find Command-Line Option #3: Using -perm*
+## Find Command-Line Option #3: Using -perm*
 
 * On Directories:
 
@@ -124,7 +124,7 @@ ___
 * This is useful because if you want to see how much access and power you have over the files, then `-perm` will tell you.
 
 
-*Find Command-Line Option #4: -size*
+## Find Command-Line Option #4: -size*
 
 * On Directories:
 
