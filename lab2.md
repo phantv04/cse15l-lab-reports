@@ -40,7 +40,7 @@ Path to a Private Key:
 
 Path to a Public Key:
 
-![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/c64d34d5-6353-4d8f-8a70-6a94c724b46b)
+![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/f50322c8-20db-489a-b67b-c9bcb2d7f110)
 
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/f06741a5-9aa0-4bd3-bd49-cd458409c476)
 
