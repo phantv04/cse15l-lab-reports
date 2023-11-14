@@ -37,10 +37,10 @@ ___
 ![image](https://github.com/phantv04/cse15l-lab-reports/assets/146781799/611ea647-d2ea-49d5-929b-3b26a5b4f74a)
 
 Keys pressed:
-* Hold 'j' until you get to the line
+* Hold 'j' until you get to the line --> this is the down arrow for Vim
 * Press the right arrow 6 times
-* Press 'x' to remove the 1
-* Press 'i' to insert 2 at that position
+* Press 'x' to remove the 1 --> the 'x' will remove the character that is being highlighted
+* Press 'i' to insert 2 at that position --> 'i' command means insert in Vim
 
 
 ___
