@@ -78,4 +78,5 @@ ___
 ## Part 2: Reflection
 
 One thing that I learned in this class that I didn't know before is that you can edit code through the terminal. This was the most interesting thing to learn for me in the second half of the course because to me, it was amazing that you can use commands such as `vim` and `nano` to open an entire Java file through the terminal and you can even use edit commands such as insert mode `i` and delete mode `d` to edit the file. It was really interesting for me to practice these skills in the lab because I remember following a 30-minute tutorial/guide on Vim in a lab and it was really fun learning about the commands that you can use in the terminal to fix your Java code, rather than editing it directly. Also, learning about bash script was enjoyable for me because to me, using bash scripts to run code can be useful since the script runs all of the commands that you put in the file, which can be useful with multiple code files and commands.
+
 ___
